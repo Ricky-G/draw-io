@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T11:20:44.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="AnH8tf_dSFz-0o0O5PTi" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T11:41:10.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="JKDzFC2L5xPMfinfuTJK" version="17.4.1" type="github">
   <diagram id="iuQfkuSLKWb25PTzQYre" name="Page-1">
     <mxGraphModel dx="2512" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="deYkW6GpYAgtgXN12OQQ-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#115193;gradientColor=none;fontSize=14;" vertex="1" parent="deYkW6GpYAgtgXN12OQQ-6">
           <mxGeometry x="210" y="10" width="43.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="deYkW6GpYAgtgXN12OQQ-7" value="Instead of returning HTML. This will retun Json API responses" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="deYkW6GpYAgtgXN12OQQ-7" value="Instead of returning HTML. This will retun JSON API responses" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="800" y="397" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="deYkW6GpYAgtgXN12OQQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="deYkW6GpYAgtgXN12OQQ-1" target="deYkW6GpYAgtgXN12OQQ-5">
@@ -53,7 +53,7 @@
         <mxCell id="deYkW6GpYAgtgXN12OQQ-14" value="Using your existing identity provider (eg: Azure AD, Keycloak etc)" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="339.54" y="40" width="130.91" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="deYkW6GpYAgtgXN12OQQ-15" value="&lt;ul&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Autherization&lt;/li&gt;&lt;/ul&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+        <mxCell id="deYkW6GpYAgtgXN12OQQ-15" value="&lt;ul&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Authorization&lt;/li&gt;&lt;/ul&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
           <mxGeometry x="304.99" y="260" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="deYkW6GpYAgtgXN12OQQ-19" value="" style="group" vertex="1" connectable="0" parent="1">

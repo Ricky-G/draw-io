@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T10:38:03.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="9ZnL35LFvMNcKH6nUEaX" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T10:44:55.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="tgRx1EdGcJNZYHmt0PFT" version="20.0.1" type="github">
   <diagram id="8nODRzFNrfPmHGJv4N7a" name="Page-1">
     <mxGraphModel dx="1662" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Au3nYON6wW2kxBXZTk8z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Au3nYON6wW2kxBXZTk8z-6" target="Au3nYON6wW2kxBXZTk8z-15">
+        <mxCell id="Au3nYON6wW2kxBXZTk8z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Au3nYON6wW2kxBXZTk8z-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="590" as="sourcePoint" />
-            <mxPoint x="762" y="766" as="targetPoint" />
+            <mxPoint x="640" y="766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Au3nYON6wW2kxBXZTk8z-3" value="External Traffic (with JWT)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Au3nYON6wW2kxBXZTk8z-2">

@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T10:44:55.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="tgRx1EdGcJNZYHmt0PFT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T10:49:47.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="iTEUloETgpMD016l6RSw" version="20.0.1" type="github">
   <diagram id="8nODRzFNrfPmHGJv4N7a" name="Page-1">
     <mxGraphModel dx="1662" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Au3nYON6wW2kxBXZTk8z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Au3nYON6wW2kxBXZTk8z-6">
+        <mxCell id="Au3nYON6wW2kxBXZTk8z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Au3nYON6wW2kxBXZTk8z-6" target="Au3nYON6wW2kxBXZTk8z-191">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="590" as="sourcePoint" />
             <mxPoint x="640" y="766" as="targetPoint" />
@@ -110,6 +110,12 @@
         </mxCell>
         <mxCell id="Au3nYON6wW2kxBXZTk8z-32" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
           <mxGeometry x="1209" y="838" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Au3nYON6wW2kxBXZTk8z-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Au3nYON6wW2kxBXZTk8z-191" target="Au3nYON6wW2kxBXZTk8z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Au3nYON6wW2kxBXZTk8z-191" value="Azure Front Door" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://azure.microsoft.com/svghandler/frontdoor?width=600&amp;height=315;" vertex="1" parent="1">
+          <mxGeometry x="750.35" y="729" width="133.33" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
